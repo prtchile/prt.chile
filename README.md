@@ -55,6 +55,12 @@
             background-color: #ffffff; /* Fondo blanco igual al encabezado */
         }
         
+#titulo-principal {
+    display: none;
+}
+
+
+        
     </style>
 </head>
 <body>
