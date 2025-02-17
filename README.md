@@ -54,10 +54,7 @@
         #result {
             background-color: #ffffff; /* Fondo blanco igual al encabezado */
         }
-        h1:first-of-type {
-    display: none;
-}
-
+       
     </style>
 </head>
 <body>
