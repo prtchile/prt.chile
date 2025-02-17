@@ -54,12 +54,9 @@
         #result {
             background-color: #ffffff; /* Fondo blanco igual al encabezado */
         }
-        
-#titulo-principal {
-    display: none;
-}
-
-
+        h1, h2 {
+        display: none;
+    }
         
     </style>
 </head>
