@@ -55,9 +55,6 @@
         #result {
             background-color: #ffffff; /* Fondo blanco igual al encabezado */
         }
-        h1 {
-        display: none;
-    }
         
     </style>
 </head>
