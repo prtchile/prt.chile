@@ -64,7 +64,7 @@
     <div data-role="page">
         <!-- Encabezado personalizado -->
         <div class="custom-header">
-            <h1>Datos<br>Revisión Técnica</h1>
+            <h2>Datos<br>Revisión Técnica</h2>
         </div><!-- /header -->
         <div id="result">
             <div data-role="content">
